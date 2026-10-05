@@ -1,0 +1,33 @@
+header {
+  background: var(--primary);
+  color: #fff;
+  padding: 0 32px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--shadow-md);
+}
+
+.logo-container a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #fff;
+}
+
+.logo-container img {
+  height: 36px;
+  width: 36px;
+  object-fit: contain;
+}
+
+.logo-container span {
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--accent);
+}

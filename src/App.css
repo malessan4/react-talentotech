@@ -1,0 +1,9 @@
+/* App.css — solo layout de alto nivel */
+
+main {
+  flex: 1;
+  padding: 24px 16px;
+  max-width: 1280px;
+  margin: 0 auto;
+  width: 100%;
+}

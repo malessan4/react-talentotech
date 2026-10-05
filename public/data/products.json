@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "name": "Guitarra Stratocaster",
+        "description": "Guitarra Eléctrica Marca Palmer, estilo Strato Caster con 3 pastillas single coil.",
+        "price": 500000,
+        "image": "/img/stratocaster.webp",
+        "category": "guitarras"
+    },
+    {
+        "id": "2",
+        "name": "Guitarra Acústica Clásica",
+        "description": "Guitarra acústica de madera de cedro, ideal para principiantes y profesionales.",
+        "price": 320000,
+        "image": "/img/acustica.webp",
+        "category": "guitarras"
+    },
+    {
+        "id": "3",
+        "name": "Piano Digital Yamaha",
+        "description": "Piano digital de 88 teclas con acción de martillo, sonido profesional y conectividad MIDI.",
+        "price": 1200000,
+        "image": "/img/piano.webp",
+        "category": "pianos"
+    },
+    {
+        "id": "4",
+        "name": "Batería Acústica Pearl",
+        "description": "Set completo de batería acústica de 5 cuerpos con platillos incluidos.",
+        "price": 2500000,
+        "image": "/img/bateria.webp",
+        "category": "baterias"
+    },
+    {
+        "id": "5",
+        "name": "Bajo Eléctrico Fender",
+        "description": "Bajo eléctrico de 4 cuerdas, cuerpo de aliso, perfecto para jazz, rock y funk.",
+        "price": 750000,
+        "image": "/img/bajo.webp",
+        "category": "bajos"
+    },
+    {
+        "id": "6",
+        "name": "Trompeta Bach Stradivarius",
+        "description": "Trompeta de latón lacado en Bb, campana de 123mm, ideal para bandas y orquestas.",
+        "price": 980000,
+        "image": "/img/trompeta.webp",
+        "category": "vientos"
+    },
+    {
+        "id": "7",
+        "name": "Violín 4/4 Profesional",
+        "description": "Violín de tapa de abeto macizo y fondo de arce, incluye arco y estuche.",
+        "price": 850000,
+        "image": "/img/violin.webp",
+        "category": "cuerdas"
+    },
+    {
+        "id": "8",
+        "name": "Ukulele Tenor Kala",
+        "description": "Ukulele tenor de caoba con afinador incorporado, gran sonido cálido y proyección.",
+        "price": 180000,
+        "image": "/img/ukelele.webp",
+        "category": "guitarras"
+    }
+]

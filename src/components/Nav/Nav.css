@@ -1,0 +1,19 @@
+nav .nav-list {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+nav .nav-list li a {
+  color: #ccc;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: var(--radius-sm);
+  transition: color var(--transition), background var(--transition);
+}
+
+nav .nav-list li a:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
