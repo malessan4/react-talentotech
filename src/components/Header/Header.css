@@ -31,3 +31,13 @@ header {
   letter-spacing: 0.5px;
   color: var(--accent);
 }
+
+@media (max-width: 480px) {
+  header {
+    padding: 0 16px;
+  }
+
+  .logo-container span {
+    font-size: 18px;
+  }
+}

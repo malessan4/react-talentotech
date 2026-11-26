@@ -1,6 +1,6 @@
 .detail-wrapper {
   max-width: 800px;
-  margin: 40px auto;
+  margin: 16px auto 40px;
   padding: 0 16px;
 }
 
@@ -9,6 +9,12 @@
   height: auto;
   border-radius: var(--radius);
   overflow: hidden;
+  box-shadow: var(--shadow-lg);
+  cursor: default;
+}
+
+.detail-wrapper .card:hover {
+  transform: none;
   box-shadow: var(--shadow-lg);
 }
 
