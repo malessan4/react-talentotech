@@ -27,9 +27,7 @@ export const validateProduct = (product) => {
   //Seleccionado por el usuario desde el explorador de archivos
   //product.image es la url cuando la imagen viene desde la ddbb
 
-  // if (!product.file && !product.image) {
-  //   errors.file = "Debes seleccionar una imagen";
-  // }
+
 
   if (!product.file && !product.image) {
     errors.file = "Debes seleccionar una imagen";
