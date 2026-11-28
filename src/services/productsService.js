@@ -72,7 +72,7 @@ export const getByCategory = async (category) => {
 
 //ALTA DE PRODUCTO
 
-export const createProduct = async (productdata) => {
+export const createProduct = async (productData) => {
 
     try {
 
